@@ -1,0 +1,16 @@
+{
+    "content_scripts": [], 
+    "description": "HRP Resume plugin", 
+    "creator": "makeit", 
+    "background_scripts": [
+        "main.js"
+    ], 
+    "homepage_url": "http://hrp.by", 
+    "version": "0.0.1", 
+    "browser_button": {
+        "caption": "HRP", 
+        "icon": "icons/hrp-logo-48.png", 
+        "tooltipText": "HRP"
+    }, 
+    "name": "hrp"
+}

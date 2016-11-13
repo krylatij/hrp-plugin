@@ -1,0 +1,20 @@
+{
+    "content_scripts": [], 
+    "description": "HRP Resume plugin", 
+    "creator": "makeit", 
+    "framework_version": "1.8.0 3dc957b83b36", 
+    "package_id": "kango-0da23e54-ba46-4b4c-83b6-6814fc7dd02b", 
+    "background_scripts": [
+        "main.js"
+    ], 
+    "homepage_url": "http://hrp.by", 
+    "version": "0.0.1", 
+    "framework_package_id": "dev", 
+    "browser_button": {
+        "caption": "HRP", 
+        "tooltipText": "HRP", 
+        "icon": "icons/hrp-logo-48.png"
+    }, 
+    "id": "{0DA23E54-BA46-4B4C-83B6-6814FC7DD02B}", 
+    "name": "hrp"
+}

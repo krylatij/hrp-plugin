@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <Description about="urn:mozilla:install-manifest">
+        <em:id>{0DA23E54-BA46-4B4C-83B6-6814FC7DD02B}</em:id>
+        <em:name>hrp</em:name>
+        <em:version>0.0.1</em:version>
+        <em:targetApplication>
+            <Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:minVersion>38.0</em:minVersion>
+                <em:maxVersion>45.*</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+        <em:bootstrap>true</em:bootstrap>
+        <em:description>HRP Resume plugin</em:description>
+        <em:creator>makeit</em:creator>
+        <em:homepageURL>http://hrp.by</em:homepageURL>
+        <em:iconURL>chrome://kango-0da23e54-ba46-4b4c-83b6-6814fc7dd02b/content/icons/icon32.png</em:iconURL>
+        
+        
+        
+        <em:type>2</em:type>
+    </Description>
+</RDF>
